@@ -38,3 +38,11 @@ There are 4 Svelte **slots** that NoteInput cares about:
    - Slot name: *"alter"*
    - Child content: \<input type="number" slot="alter" name="alter">
    - Constraints: The *alter* **slot** does not technically have any *min* or *max* value limit but generally speaking alters are limited to multiples of two at best *ie: double sharps or double flats*
+
+# Versions
+
+I went through a couple of changes making this component and the last version should represent the current styling used in this repo
+
+## Version 1
+
+[[https://github.com/mcabrex/Svelte-NoteInput-Template/blob/main/Version%20Images/NoteInput%20slots%20filled%20v1.PNG]]
