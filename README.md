@@ -45,4 +45,4 @@ I went through a couple of changes making this component and the last version sh
 
 ## Version 1
 
-[[https://github.com/mcabrex/Svelte-NoteInput-Template/blob/main/Version%20Images/NoteInput%20slots%20filled%20v1.PNG]]
+![version 1](https://github.com/mcabrex/Svelte-NoteInput-Template/blob/main/Version%20Images/NoteInput%20slots%20filled%20v1.PNG)
