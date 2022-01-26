@@ -44,22 +44,22 @@ There are 4 Svelte **slots** that NoteInput cares about:
 I went through a couple of simple changes making this component and the last version should represent the current styling used in this repo
 
 ### Version 1
-![version 1](versions\NoteInput-v1.PNG)
+![version 1](versions/NoteInput-v1.PNG)
 
 ### Version 2
-![version 2](versions\NoteInput-v2.PNG)
+![version 2](versions/NoteInput-v2.PNG)
 
 ### Version 3
-![version 3](versions\NoteInput-v3.PNG)
+![version 3](versions/NoteInput-v3.PNG)
 
 ### Version 4
-![version 4](versions\NoteInput-v4.PNG)
+![version 4](versions/NoteInput-v4.PNG)
 
 ### Version 5
-![version 5](versions\NoteInput-v5.PNG)
+![version 5](versions/NoteInput-v5.PNG)
 
 ### Version 6
-![version 6](versions\NoteInput-v6.PNG)
+![version 6](versions/NoteInput-v6.PNG)
 
 ### Version 7
-![version 7](versions\NoteInput-v7.PNG)
+![version 7](versions/NoteInput-v7.PNG)
